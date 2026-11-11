@@ -50,9 +50,11 @@ Follow up the troubled loans, find out why transactions fail, complete KYC for a
 ## Video walkthrough
 []
 
+## LinkedIn Profile
+[https://www.linkedin.com/in/vyshnavi-mulle]
+
 ## Acknowledgements
 Thanks to my trainer Sai Manoj Pacha, my mentor Bhargav Kunapareddy and Innomatics Research Labs.
 
 ## Authors
 Vyshnavi Mulle, Likhitha Jami, R. Naina Patel Yadav
-[]
