@@ -48,7 +48,7 @@ For time-based analysis (age, tenure, account life), the latest transaction_date
 Follow up the troubled loans, find out why transactions fail, complete KYC for active customers, promote auto debit, reactivate or close unused cards, and redefine customer segments.
 
 ## Video walkthrough
-[]
+[https://lnkd.in/p/dE78DKaJ]
 
 ## LinkedIn Profile
 [https://www.linkedin.com/in/vyshnavi-mulle]
